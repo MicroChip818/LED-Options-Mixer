@@ -18,7 +18,7 @@ This section assumes you have a data transfer cable and a microcontroller.
 - Breadboards (2 recommended)
 
 ## Setup
-1. Build the circuit using the schematic provided in ``LED Options Mixer.kicad_sch``.
+1. Build the circuit using the schematic provided in ``LED Options Mixer.pdf``. You can find this in the /sch folder.
 2. On Visual Studio Code, install the PlatformIO extension if you don't have it installed yet.
 3. Clone the repo. If you have Git installed, clone the project and enter its folder using the following terminal lines:
 
